@@ -19,6 +19,6 @@ You are required to create an authentication system wherein a user can log in to
 Remember to open source your project in any version control system of your choice, host it in any web hosting service provider and write a blog post/article to document  it.
 
 
-You can do it individually  or in groups of not more than 3 people. 
+You can do it individually  or in groups of not more than 3 members. 
 
  - Best 3 teams receives our full tech swag pack.
