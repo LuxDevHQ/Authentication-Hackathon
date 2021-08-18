@@ -1,4 +1,4 @@
-## **Authentication_System_Hackathon, 23rd to 27th August 2021**
+## **Authentication_System_Hackathon**
 
 LuxDevHQ 1 Week Authentication System Hackathon in Partnership With Lux Academy and Data Science East Africa.
 
