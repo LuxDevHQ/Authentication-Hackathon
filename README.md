@@ -1,4 +1,4 @@
-## **Authentication_System_Hackathon**
+## **Authentication System Hackathon**
 
 LuxDevHQ 1 Week Authentication System Hackathon in Partnership With Lux Academy and Data Science East Africa.
 
